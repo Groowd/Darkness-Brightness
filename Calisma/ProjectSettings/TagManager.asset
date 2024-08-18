@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Platform
+  - DarkGem
+  - BrightGem
+  - DarkPlayer
+  - BrightPlayer
+  - Traps
+  - DarkPlayer2
+  - BrightPlayer2
+  - Traps2
+  - DarkTrap2
+  - BrightTrap2
+  - Traps3
+  - DarkTrap3
+  - BrightTrap3
+  - DarkPlayer3
+  - BrightPlayer3
+  - box
+  - ToxicWater
+  - Traps4
+  - DarkTrap4
+  - BrightTrap4
+  - DarkPlayer4
+  - BrightPlayer4
+  - ToxicWater4
+  - Traps5
+  - DarkTrap5
+  - BrightTrap5
+  - DarkPlayer5
+  - BrightPlayer5
+  - ToxicWater5
+  - BrightTeleporter
+  - DarkTeleporter
+  - BrightBullet5
+  - DarkBullet5
+  - BrightBox
+  - DarkBox
+  - Traps6
+  - DarkTrap6
+  - BrightTrap6
+  - DarkPlayer6
+  - BrightPlayer6
+  - ToxicWater6
+  - BrightTeleporter2
+  - DarkTeleporter2
+  - BrightBullet6
+  - DarkBullet6
+  - BrightBox6
+  - DarkBox6
+  - boost
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - DarkPlayer
+  - DarkGem
+  - BrightPlayer
+  - BrightGem
+  - Bullet
+  - Traps
+  - Platform
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Foreground
+    uniqueID: 2648879993
+    locked: 0
