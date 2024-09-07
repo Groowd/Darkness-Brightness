@@ -36,33 +36,33 @@ Settings Menu
 <br>   
 <h1> TRAPS </h1>  
 
-Dark Trap   
+Dark Trap (Only the dark player can touch this.)   
 ![DarkTrap](https://github.com/user-attachments/assets/082e5de5-bb41-4354-86ae-c8722945c849)   
-Bright Trap    
+Bright Trap (Only the bright player can touch this.)    
 ![BrightTrap](https://github.com/user-attachments/assets/d1efbd0e-bf2d-49dd-9d64-478174cd9975)   
-Toxic Trap   
+Toxic Trap (Neither character can touch this.)   
 ![ToxicTrap](https://github.com/user-attachments/assets/369a6622-58ef-4759-93e3-4d5d9f203c4b)   
-Bright Box     
+Bright Box (Only the bright player can touch/drag this.)     
 ![BrightTrapBox](https://github.com/user-attachments/assets/4f4c6a8b-047c-4667-afdb-30e02b69ac8f)   
-Dark Box    
+Dark Box (Only the dark player can touch/drag this.)    
 ![DarkTrapBox](https://github.com/user-attachments/assets/279cf1ca-e322-4018-a303-d21355c8e72a)   
-Cannon     
+Cannon (It spawns 3 different type bullets.)     
 ![BulletMachine](https://github.com/user-attachments/assets/3ddf14bf-76ea-4929-8f12-983057f39324)   
-Dark&Bright Bullet   
+Dark&Bright Bullet (Dark bullet kills the bright player. Bright bullet kills the dark player.)   
 ![Dark and Bright Bullet](https://github.com/user-attachments/assets/e11f800f-7795-480b-b3bd-ef670800c40a)   
-Red Bullet   
+Red Bullet (Red bullets kill both players.)     
 ![Red Bullet](https://github.com/user-attachments/assets/138a24de-457d-45d7-9b11-716a0c4fac07)   
 <br>  
 <br>       
 <h1> SOME STUFF </h1>  
 
-Boost    
+Boost (Strengthens characters' jumping for 10 seconds.)    
 ![Boost](https://github.com/user-attachments/assets/68e629d4-4e24-43d7-aee6-c80ef0719c7c)  
-Box    
+Box (Both players can touch/drag this.)   
 ![Box](https://github.com/user-attachments/assets/b2b6b90b-6c12-4c39-8ee9-6a6daef498d1)   
-Bright Teleporter     
+Bright Teleporter (The bright player teleports when it touched.)     
 ![BrightPlayerTeleporter](https://github.com/user-attachments/assets/30b46981-aaf3-42b5-b120-34c7bf2db991)    
-Dark Teleporter   
+Dark Teleporter (The dark player teleports when it touched.)    
 ![DarkPlayerTeleporter](https://github.com/user-attachments/assets/4709d36a-9867-4baa-8632-e029b48b4f9a)   
 <br>   
 <br>       
