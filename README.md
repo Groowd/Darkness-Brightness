@@ -1,17 +1,12 @@
 # Darkness-Brightness
 2D Puzzle-Platform Game (My First Unity Game)
           MAPS
-Level 1 Map
+
 ![level1](https://github.com/user-attachments/assets/8ff84ae2-0201-4801-bf25-2898e9871e52)
-Level 2 Map
 ![level2](https://github.com/user-attachments/assets/162cb597-ddc6-4e7d-bbf9-dd56e3d2a730)
-Level 3 Map
 ![level3](https://github.com/user-attachments/assets/e1c99949-3a03-493f-a325-8b8b533ebef2)
-Level 4 Map
 ![level4](https://github.com/user-attachments/assets/5601755d-da66-4f35-9f56-6b6733aa2c71)
-Level 5 Map
 ![level5](https://github.com/user-attachments/assets/bae0b92c-eec2-48cc-9cdd-3f15b52e6b76)
-Level 6 Map
 ![level6](https://github.com/user-attachments/assets/da2f9579-f956-44ca-b462-d4d14ddb5b7c)
 
 ![mainmenu](https://github.com/user-attachments/assets/3b211500-d3e0-4055-abae-5899d93e94ed)
